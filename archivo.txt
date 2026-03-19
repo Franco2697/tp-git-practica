@@ -1,2 +1,2 @@
 Linea inicial
-Linea modificada por A
+Linea modificada por B
